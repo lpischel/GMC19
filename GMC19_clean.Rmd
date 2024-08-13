@@ -1,0 +1,14 @@
+---
+title: "GMC19_cleaning"
+author: "Lauren Pischel"
+date: "2024-08-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This will be where data cleaning goes. Data will be without PHI (such as names, DOB) but will have some dates (e.g., dates of illness)
